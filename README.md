@@ -1,4 +1,3 @@
-# grocers-yard-api
-### A mimic of erstwhile Grocers-Yard®
+# e-commerce-api
 ### Run npm install
 ### PORT:4000
